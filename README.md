@@ -1,4 +1,5 @@
 ### Hi there 👋
+![image](https://user-images.githubusercontent.com/106848675/213076239-d95d3a54-f366-423e-9a1f-e6cff37360f5.png)
 
 <!--
 **AlbertoRaphael/AlbertoRaphael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
