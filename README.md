@@ -114,7 +114,7 @@ Desde que tengo 16 vi que me orientaba más por la lógica y cuando entre a la u
 <br/>  
 
   
-
+<!--
 <br/>  
 
 <div align="center">
@@ -128,7 +128,7 @@ Desde que tengo 16 vi que me orientaba más por la lógica y cuando entre a la u
 <br />
 
 ----
-<!--<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
 
 
