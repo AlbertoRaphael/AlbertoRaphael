@@ -108,7 +108,7 @@ Desde que tengo 16 vi que me orientaba más por la lógica y cuando entre a la u
 <br/>  
 
 
-## Recent Blog Posts  
+
   
 
 <br/>  
